@@ -31,4 +31,5 @@ Breakdown of Tasks:
   3. Identify variables to test
   4. Obtain data, clean data, and merge data
   5. Perform statistical analysis on data
-  6. Create scatterplots and line regression for analysis
+  6. Create scatterplots and line regressions
+  7. Create any other visualizations including boxplots for ranges and maps for location data.
