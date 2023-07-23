@@ -1,5 +1,5 @@
 Project 1: “The Relationship Between Commercial Banking Assets and the Level of Employment in a State”
-Team Members: Ryan Lund; Hamid Nazari, Stephanie Patricia Anshell; Mili Hughes; Joseph Gonzalez; Lu Ye
+Team Members: "Ryan Lund"," "Hamid Nazari", "Stephanie Patricia Anshell"; "Mili Hughes"; "Joseph Gonzalez", "Lu Ye"
 
 Research Questions: 1) Is there a relationship between level of employment in a State and the amount of commercial banking assets in that State? 2) Is there a relationship between level of employment Nationally and the amount of commercial banking assets Nationally?
 
